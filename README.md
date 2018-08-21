@@ -23,3 +23,5 @@
 </br>
 
 <p>Thank you for your consideration.</p>
+</br>
+<p>Feel free to check out my <a href="https://github.com/rbwilde">github</a>. I used Bitbucket with C&G so my Github is long neglected.</p>
