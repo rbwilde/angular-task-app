@@ -11,13 +11,13 @@
 <ul>
 	<li>Open Terminal</li>
 	<li>Navigate to the project</li>
-	<li>cd into <code>backend</code></li>
-	<li><code>npm install<code></li
-	<li><code>npm run dev</code></li>
+	<li>cd into <b>backend</b></li>
+	<li><b>npm install</b></li>
+	<li><b>npm run dev</b></li>
 	<li>Open a new terminal tab</li>
-	<li>cd into <code>issue-tracker</code></li>
-	<li><code>npm install<code></li>
-	<li><code>ng serve -o</code></li>
+	<li>cd into <b>issue-tracker</b></li>
+	<li><b>npm install</b></li>
+	<li><b>ng serve -o</b></li>
 </ul>
 
 </br>
