@@ -57,6 +57,6 @@ const routes: Routes = [
     ReactiveFormsModule
   ],
   providers: [IssueService],
-  bootstrap: [AppComponent]
+  bootstrap: [AppComponent],
 })
 export class AppModule { }

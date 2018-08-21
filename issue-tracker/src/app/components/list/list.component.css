@@ -1,0 +1,10 @@
+.cdk-column-title,
+.cdk-column-responsible,
+.cdk-column-severity,
+.cdk-column-status{
+	padding-right: 10px;
+}
+
+.mat-header-cell.cdk-column-actions{
+	padding-left: 25px;
+}
